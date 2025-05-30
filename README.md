@@ -4,7 +4,7 @@ Welcome to the Skill Development Lab Repository This collection contains 16 hand
 
 Each folder contains code and files for a specific experiment, named accordingly.
 
-What You’ll Learn
+**What You’ll Learn**
 
 Frontend Development
 Responsive Web Design
@@ -19,7 +19,7 @@ OpenWeatherMap API Integration
 Chart.js (Data Visualization)
 
 
-List of Experiments & Technologies Used
+**List of Experiments & Technologies Used**
 
 |S.no | Experiment | Description | Technology |
 |----|---------------------|-------------|------------|
@@ -40,18 +40,18 @@ List of Experiments & Technologies Used
 | 15 | Django Weather App | Fetch & graph weather info | Django, Chart.js |
 | 16 | Django TODO App | Basic TODO app using Django | Django (Python) |
 
-How to Use This Repository
+**How to Use This Repository**
 
-1. Clone the Repo  
+**1. Clone the Repository**  
    terminal-code
    git clone https://github.com/swayamprakashm/Skill-Development-Lab.git
    cd Skill-Development-Lab
 
 
-2. Open Specific Experiment
+**2. Open Specific Experiment**
    Use VS Code or any IDE of your choice to explore each folder.
 
-3. Run Web Projects
+**3. Run Web Projects**
 
    • Open `index.html` directly in a browser *(for HTML/CSS/JS tasks)*
    • Use `npm`/`node` for NodeJS experiments
@@ -59,23 +59,23 @@ How to Use This Repository
    • Use `javac`/`java` for Java-based tasks
 
 
-External Tools & APIs Used
+**External Tools & APIs Used**
 
 • OpenWeatherMap.org – For real-time weather data
 • Chart.js – For data visualization (React & Django)
 • MySQL / Oracle DB – For backend Java persistence
 • JWT – For API authentication in Node.js
 
-Author
+**Author**
 
 M Swayam Prakash
 Passionate about full-stack development and building impactful projects with modern web technologies.
 
-Suggestions
+**Suggestions**
 
 • Beginners: Start with Experiments 1–4 to get comfortable with HTML/CSS/JS
 • Intermediate: Try Experiments 5–10 to build your backend skills
 • Advanced: Explore React and Django projects (11–16)
 
-License
+**License**
 This repository is open for learning and educational use.
