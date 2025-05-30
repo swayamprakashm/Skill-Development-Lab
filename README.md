@@ -21,7 +21,7 @@ Chart.js (Data Visualization)
 
 List of Experiments & Technologies Used
 
-|Sno | Experiment | Description | Technology |
+|S.no | Experiment | Description | Technology |
 |----|---------------------|-------------|------------|
 | 01 | Shopping Cart – CSS | Basic shopping cart using Flex & Grid | HTML, CSS3 |
 | 02 | Shopping Cart – Bootstrap | Responsive cart using Bootstrap | HTML, Bootstrap |
