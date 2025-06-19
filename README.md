@@ -54,7 +54,7 @@ Each folder contains code and files for a specific experiment, named accordingly
 ```bash
 git clone https://github.com/swayamprakashm/Skill-Development-Lab.git
 
-cd Skill-Development-Lab
+cd Skill-Development-Lab 
 ````
 
 ### 2. Open Specific Experiment
