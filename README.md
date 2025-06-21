@@ -98,5 +98,3 @@ Passionate about full-stack development and building impactful projects with mod
 ## License
 
 This repository is open for learning and educational use.
-
-```
