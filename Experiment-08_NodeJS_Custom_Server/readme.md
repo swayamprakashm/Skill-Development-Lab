@@ -6,7 +6,7 @@
 
 ### **AIM**
 
-To create a custom **HTTP server** using **Node.js** and explore core built-in modules such as `os`, `path`, and `events`.
+To create a custom **HTTP server** using **Node.js** and explore core built-in modules such as `os`, `path`, and `events`. 
 
 ---
 
