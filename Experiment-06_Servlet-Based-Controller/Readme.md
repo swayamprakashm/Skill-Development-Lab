@@ -54,9 +54,13 @@ shopping-cart/
 #### **PREREQUISITES**
 
 • Java JDK
+
 • Apache Tomcat
+
 • MySQL
+
 • VS Code with Java Extension Pack
+
 • Servlet API (`javax.servlet-api-4.0.1.jar`)
 
 ---
@@ -115,6 +119,7 @@ This project is **open-source** and free to use.
 ### **Author**
 
 • **M. Swayam Prakash**
+
 • GitHub: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
 
 ---
