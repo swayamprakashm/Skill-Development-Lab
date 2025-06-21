@@ -98,3 +98,14 @@ Passionate about full-stack development and building impactful projects with mod
 ## License
 
 This repository is open for learning and educational use.
+
+---
+This project is **open-source** and free to use.
+
+---
+
+### **GitHub** 
+
+[https://github.com/swayamprakashm](https://github.com/swayamprakashm)
+
+---
