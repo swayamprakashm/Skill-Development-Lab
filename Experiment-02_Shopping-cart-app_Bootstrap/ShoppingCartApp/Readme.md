@@ -91,7 +91,7 @@ This project is **open-source** and free to use.
 
 ### **Developed by:**
 
-**M. Swayam Prakash**
+•**M. Swayam Prakash**
 
 •GitHub: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
 
