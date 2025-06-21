@@ -13,9 +13,13 @@ To explore and implement **ES6 features** such as **arrow functions**, **callbac
 ### **Technologies Used**
 
 • HTML for structuring the application
+
 • CSS for styling and layout
+
 • JavaScript (ES6+) for functionality
+
 • Chart.js for data visualization
+
 • OpenWeatherMap API for real-time weather data
 
 ---
@@ -23,9 +27,13 @@ To explore and implement **ES6 features** such as **arrow functions**, **callbac
 ### **Features**
 
 • Fetch real-time weather data using the OpenWeatherMap API
+
 • Input validation to ensure a valid city name
+
 • Dynamic UI updates using JavaScript DOM manipulation
+
 • Graphical representation of weather data using Chart.js
+
 • Error handling for a better user experience
 
 ---
@@ -71,6 +79,7 @@ To explore and implement **ES6 features** such as **arrow functions**, **callbac
 ### **Dependencies**
 
 • Chart.js (via CDN or local installation)
+
 • OpenWeatherMap API key
 
 ---
