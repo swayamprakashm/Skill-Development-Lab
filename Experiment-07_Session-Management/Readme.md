@@ -119,6 +119,7 @@ This project is **open-source** and free to use.
 ### **Author**
 
 • **M. Swayam Prakash**
+
 • GitHub: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
 
 ---
