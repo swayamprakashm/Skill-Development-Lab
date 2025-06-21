@@ -12,8 +12,11 @@
 ### **Features**
 
 •Responsive design using Bootstrap 5
+
 •Credit card payment form with fields for cardholder name, card number, expiration date, and CVV
+
 •Modern and clean UI
+
 •Mobile-friendly layout
 ---
 
