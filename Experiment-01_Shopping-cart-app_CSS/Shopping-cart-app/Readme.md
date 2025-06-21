@@ -1,7 +1,7 @@
 Program 1 - Responsive Shopping Cart Web Application 
 
 
-
+---
 AIM
 To create a responsive shopping cart web application using CSS3, Flexbox, and Grid for layout design.
 
