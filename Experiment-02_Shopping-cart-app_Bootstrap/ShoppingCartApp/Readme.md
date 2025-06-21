@@ -1,4 +1,5 @@
 ---
+
 ## **Program 2 - Make the above web application responsive web application using Bootstrap framework**
 
 ---
@@ -84,7 +85,7 @@ This ensures responsive grids, form controls, buttons, and layout utilities are 
 
 ### **License**
 
-This project is **open-source** and distributed under the **MIT License**.
+This project is **open-source** and free to use.
 
 ---
 
