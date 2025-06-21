@@ -86,6 +86,7 @@ This project is licensed under the **MIT License**.
 
 ### **Developed by:**
 
-**M. Swayam Prakash**
+• **M. Swayam Prakash**
 
+• GitHub: [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
 ---
