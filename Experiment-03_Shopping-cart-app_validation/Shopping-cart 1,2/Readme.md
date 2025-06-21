@@ -13,6 +13,7 @@ To implement client-side validation using JavaScript for a **registration form**
 ### **2. Requirements**
 
 • **Software:** Google Chrome, VS Code / Any Text Editor
+
 • **Technologies:** HTML, CSS, JavaScript
 
 ---
@@ -29,16 +30,23 @@ Client-side validation ensures that form inputs meet the required format before 
 #### **4.1 Registration Form Validation**
 
 • Validates user input fields (name, email, and password)
+
 • Ensures all fields are filled
+
 • Uses a regular expression to validate email format
+
 • Checks that the password is at least 6 characters long
+
 • Displays an alert for invalid input
 
 #### **4.2 Shopping Cart Validation**
 
 • Retrieves cart items from `localStorage`
+
 • Validates quantity (must be a positive number)
+
 • Displays an alert for incorrect input
+
 • Dynamically updates the total price
 
 ---
