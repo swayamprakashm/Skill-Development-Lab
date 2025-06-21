@@ -60,7 +60,7 @@ ShoppingCartApp/
 1. **Clone the repository**:
 
    ```bash
-   git clone [https://github.com/swayamprakashm/shopping-cart.git](https://github.com/swayamprakashm/Skill-Development-Lab/edit/main/Experiment-01_Shopping-cart-app_CSS/Shopping-cart-app
+   git clone [https://github.com/swayamprakashm/shopping-cart.git](https://github.com/swayamprakashm/Skill-Development-Lab/edit/main/Experiment-01_Shopping-cart-app_CSS/Shopping-cart-app]
    cd shopping-cart
    ```
 
