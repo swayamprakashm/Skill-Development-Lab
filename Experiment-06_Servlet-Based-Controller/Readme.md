@@ -92,16 +92,16 @@ shopping-cart/
 
 ### **DATABASE SETUP**
 
-**Database:** `shoppingdb`
+**Database:** `shopping_cart`
 **Table:** `products`
 
 ```sql
 CREATE TABLE products (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    price DOUBLE NOT NULL,
-    quantity INT NOT NULL
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(100),
+  price DECIMAL(10,2)
 );
+
 ```
 
 ---
